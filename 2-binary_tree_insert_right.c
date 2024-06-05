@@ -1,11 +1,9 @@
 #include "binary_trees.h"
-#include <stdlib.h>
 
 /**
  * binary_tree_insert_right - Insert a right child
  * @value: the node's value
  * @parent: the parent
- *
  * Return: the new right child
  */
 
